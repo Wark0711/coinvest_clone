@@ -1,0 +1,29 @@
+.nav-logo{
+    height: 4em;
+    width: 8em;
+    background-color: #FDFCFC;
+}
+
+.nav-logo img{
+    height: 3em;
+}
+
+.nav-triangle{
+    height: 0;
+    border-top: 64px solid #FDFCFC;
+    border-right: 40px solid transparent;
+}
+
+.nav-icon{
+    transform: scale(1.25);
+}
+
+::placeholder{
+    font-style: italic;
+    font-size: .9em;
+}
+
+.search-icon{
+    top: 3.5px;
+    right: 24px;
+}

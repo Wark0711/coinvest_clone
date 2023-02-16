@@ -1,0 +1,48 @@
+.start1,
+.start2 {
+    background-color: #000000;
+    width: 15rem;
+    font-size: .8em;
+}
+
+.start1-text,
+.start2-text {
+    width: 12rem;
+}
+
+.main-start, .main-info-bar, .main-about, .main-images {
+    width: 15rem;
+}
+
+.info-bar-head, .main-about-head, .main-images-head {
+    background-color: #000000;
+}
+
+.boy {
+    left: -12px;
+}
+
+.info-bar-cont {
+    background-color: #EFEFEF;
+    border-bottom-left-radius: 40px;
+}
+
+.info-bar-cont p {
+    font-size: .75em;
+    font-weight: 500;
+}
+
+.main-info-cont{
+    background-color: #EFEFEF;
+    border-bottom-left-radius: 50px;
+}
+
+.main-info-cont p{
+    font-size: .75em;
+    text-align: justify;
+}
+
+.images-cont{
+    height: 15em;
+    background-color: #EFEFEF;
+}

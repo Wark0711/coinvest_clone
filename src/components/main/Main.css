@@ -1,0 +1,58 @@
+.heading-head {
+    background: linear-gradient(270deg, #978B23 41.19%, #F8E011 73.91%, #979223 100%);
+    width: 19rem;
+}
+
+.heading-head2 {
+    width: 19rem;
+    background: linear-gradient(270deg, #978B23 8.85%, #F8E011 51.04%, #979223 90.62%);
+}
+
+.head-logo img {
+    height: 4em;
+    width: 4em;
+}
+
+.head-time {
+    font-size: .85rem;
+}
+
+.main-content {
+    width: 19rem;
+    background: #EFEFEF;
+}
+
+.main-head-cont p {
+    font-size: .8em;
+}
+
+.main-logos,
+.main-logo {
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 28px;
+    width: 19rem;
+}
+
+.logos-btn {
+    background: #20C2CC;
+}
+
+.test-head {
+    background: #20C2CC;
+    width: 15rem;
+}
+
+.main-test {
+    width: 19rem;
+    background-color: #EFEFEF;
+}
+
+.bar-data {
+    width: 15rem;
+}
+
+.bar-boxes {
+    width: 13.5rem;
+    background: #A2A1A1;
+    height: 1.5em;
+}

@@ -1,0 +1,35 @@
+.back-img{
+    height: 22em;
+}
+
+.bar1{
+    background: linear-gradient(270.04deg, #09382A 22.8%, #0C8A3E 49.02%, #09382A 77.87%);
+    height: 3em;
+}
+.bar2{
+    background: linear-gradient(90deg, #867B18 10.42%, #DFD71F 52.6%, #867418 100%);
+}
+
+
+.bar3{
+    height: 3em;
+}
+
+.profile-img{
+    height: 9em;
+    width: 9em;
+    top: -2em;
+    left: 7%;
+}
+
+.profile-box, .bar2 div, .bar-box{
+    width: 75%;
+}
+
+.profile-head, .profile-fr, .profile-albumn,.bar{
+    width: 4em;
+}
+
+.bar-text{
+    font-size: .7em;
+}
